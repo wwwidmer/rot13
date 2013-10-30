@@ -1,4 +1,10 @@
 /*
+rot13 
+Author: William Widmer
+10/29/2013
+
+A C program that reads an input string then Rotates the characters value of the string by 13. 
+https://simple.wikipedia.org/wiki/ROT13
 
 
 
