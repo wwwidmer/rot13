@@ -3,8 +3,10 @@ rot13
 Author: William Widmer
 10/29/2013
 
-A C program that reads an input string then Rotates the characters value of the string by 13. 
+A C program that reads an input string then Rotates the characters value of the string by 13. It rotates number digits by 4 
+and leaves punctuation alone.
 https://simple.wikipedia.org/wiki/ROT13
+A simple cypher that is very vulnerable to being broken.
 
 
 
