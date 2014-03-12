@@ -2,11 +2,11 @@
 #include "rot13.h"
 
 char* input(char *s){
-  scanf("%99s",s);
+  s =  gets(s);
   return s;
 }
 
-main(){
+int main(){
     char str[1000];
     printf("Please enter a command\n");
     printf("enter a string to encrypt\n");
